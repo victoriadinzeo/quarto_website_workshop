@@ -1,0 +1,1 @@
+Sitemap: https://victoriadinzeo.github.io/quarto_website_workshop/sitemap.xml
